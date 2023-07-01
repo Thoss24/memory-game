@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.instructions {
+    margin-left: 50px;
+    font-size: 21px;
+}
+
+.score-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 10px;
+}
+
+.score {
+    display: flex;
+    justify-content: flex-end;
+    color: black;
+    font-size: 23px;
+    font-weight: 600;
+    gap: 4px;
+    margin-right: 80px;
+}

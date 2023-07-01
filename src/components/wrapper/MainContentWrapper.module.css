@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-content-wrapper {
+    display: flex;
+    height: 85vh;
+    background-color: rgba(231, 154, 135, 0.7)
+}
