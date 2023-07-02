@@ -10,7 +10,10 @@ const Cards = (props) => {
     };
 
     return (
-        <div onClick={passIdHandler} className={classes.card}>{props.name}</div>
+        <div onClick={passIdHandler} className={classes.card}>
+            <img className={classes.image} src={props.img} alt="animal"/>
+            <h2>{props.name}</h2>
+        </div>
     )
 };
 

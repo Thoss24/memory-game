@@ -7,51 +7,63 @@ import MemoryCardWrapper from "./components/wrapper/MemoryCardWrapper";
 const cards = [
   {
     id: 1,
-    name: 'Card one'
+    name: 'Pajarito The Pirate',
+    image: '/Pajarito-Pirate.svg'
   },
   {
     id: 2,
-    name: 'Card two'
+    name: 'Lenny The Goat',
+    image: '/lemmling-Cartoon-goat.svg'
   },
   {
     id: 3,
-    name: 'Card three'
+    name: 'Lightheaded Len',
+    image: '/Cartoon-Zebra.svg'
   },
   {
     id: 4,
-    name: 'Card four'
+    name: 'Cinema Cedric',
+    image: '/cinema-penguin.svg'
   },
   {
     id: 5,
-    name: 'Card five'
+    name: 'Conjuring Coleen',
+    image: '/Frog-Wearing-Witchs-Hat.svg'
   },
   {
     id: 6,
-    name: 'Card six'
+    name: 'Clean Bean Machine',
+    image: '/black_cat_black_and_white.svg'
   },
   {
     id: 7,
-    name: 'Card seven'
+    name: 'Goodest Boy Gary',
+    image: '/lemmling_Cartoon_dog.svg'
   },
   {
     id: 8,
-    name: 'Card eight'
+    name: 'Big Hug Barry',
+    image: '/lemmling-Cartoon-bear.svg'
   },
   {
     id: 9,
-    name: 'Card nine'
+    name: 'Bookworm Ben',
+    image: '/owl_ebook.svg'
   },
   {
     id: 10,
-    name: 'Card ten'
+    name: 'Red blob bob',
+    image: '/SmilingCat.svg'
   },
   {
     id: 11,
-    name: 'Card eleven'
+    name: 'Dino Danielle',
+    image: '/StudioFibonacci-Cartoon-triceratops.svg'
   },
   {
     id: 12,
-    name: 'Card twelve'
+    name: 'Shaggy Hair Henry',
+    image: '/lemmling-yak.svg'
   },
 ];
 
